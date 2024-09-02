@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selamat Ulang Tahun Saviraa!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+            max-width: 600px;
+            margin-top: 50px;
+        }
+        h1 {
+            color: #ff69b4;
+        }
+        p {
+            font-size: 18px;
+            margin: 20px 0;
+        }
+        .btn {
+            background-color: #ff69b4;
+            color: white;
+            padding: 15px 25px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        .btn:hover {
+            background-color: #ff1493;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Selamat Ulang Tahun, Saviraa!</h1>
+        <p>Hari ini adalah hari yang istimewa karena kamu lahir ke dunia. Semoga tahun ini dipenuhi dengan kebahagiaan, kesuksesan, dan keberkahan. Teruslah bersinar dan capai semua impianmu!</p>
+        <a href="#" class="btn">Rayakan Bersama!</a>
+    </div>
+</body>
+</html>
